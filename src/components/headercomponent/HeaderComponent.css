@@ -1,0 +1,17 @@
+
+.header {
+  background-image: url(../../assets/pic.webp);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header h2 {
+  background-color: azure;
+  padding: 4px;
+  border-radius: 5px;
+}
